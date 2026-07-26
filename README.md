@@ -82,7 +82,4 @@ sales-forecasting-prophet/
 └── README.md
 ```
 
-## Author
 
-**Aayurshi Gawande** — Final-year B.E. Electronics & Telecommunication, St. Francis Institute of Technology, Mumbai
-[GitHub](https://github.com/Aayurshi07)
